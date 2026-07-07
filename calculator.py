@@ -1,3 +1,13 @@
+# Simple Calculator
+
+A basic command-line calculator built in Python. Supports addition, subtraction, multiplication, and division.
+
+## Features
+- Add, subtract, multiply, divide
+- Handles invalid input (letters instead of numbers)
+- Prevents division by zero
+- Keeps running until you choose to quit
+
 def calculator():
     print("Welcome to calculator!")
     print("Operations: +, -, *, /")
